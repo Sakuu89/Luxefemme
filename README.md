@@ -124,7 +124,7 @@ npm start
 
 ## Demo
 
-Check out the demo <a href="https://luxfemme.netlify.app/" target="_blank">here</a>
+Check out the demo <a href="https://frontend-lux.vercel.app/" target="_blank">here</a>
 
 
 
