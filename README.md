@@ -61,7 +61,7 @@ LuxeFemme is an online platform that allows users to browse and purchase home de
 1. Clone the repository
 
 ```bash
-git clone https://github.com/khanahmad4527/luxefemme.git
+git clone https://github.com/Sakuu89/Luxefemme.git
 ```
 
 2. Install dependencies
