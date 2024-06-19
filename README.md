@@ -17,7 +17,7 @@ Our user-friendly interface makes it easy to browse and shop for products, and w
 - [Team](#team)
 - [Disclaimer](#disclaimer)
 
-## A Collaborative Project
+## A Solo Project
 
 This project is a re-creation of the website "https://www.anthropologie.com/" for educational purposes only. It is a solo effort developed by me who aim to learn and practice web development skills. I developed this project to enhance my knowledge in building a complete e-commerce web application , where I learn aboutlots of things like problem-solving and all.
 
