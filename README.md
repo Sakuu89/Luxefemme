@@ -6,7 +6,7 @@ Our user-friendly interface makes it easy to browse and shop for products, and w
 
 ## Table of Contents
 
-- [A Collaborative Project](#a-collaborative-project)
+- [A Solo Project](#a-solo-project)
 - [Description](#description)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
@@ -19,7 +19,7 @@ Our user-friendly interface makes it easy to browse and shop for products, and w
 
 ## A Collaborative Project
 
-This project is a re-creation of the website "https://www.anthropologie.com/" for educational purposes only. It is a collaborative effort developed by a team of individuals who aim to learn and practice web development skills. We developed this project to enhance our knowledge in building a complete e-commerce web application as a team, where we learn about the best practices for working in a collaborative environment, project management, and problem-solving.
+This project is a re-creation of the website "https://www.anthropologie.com/" for educational purposes only. It is a solo effort developed by me who aim to learn and practice web development skills. I developed this project to enhance my knowledge in building a complete e-commerce web application , where I learn aboutlots of things like problem-solving and all.
 
 ## Description
 
